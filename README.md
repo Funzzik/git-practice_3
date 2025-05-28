@@ -1,0 +1,3 @@
+# Заголовок 1 уровня - автор: Свистунова В.А. 
+# *28.05.2026*
+![Мемчик](https://yandex.ru/images/search?text=%D0%BE%D0%BA%D0%B0%D0%BA+%D0%BC%D0%B5%D0%BC+%D0%BA%D0%BE%D1%82+%D0%B2+%D0%BA%D0%B0%D0%BF%D1%8E%D1%88%D0%BE%D0%BD%D0%B5&img_url=https%3A%2F%2Ffiles.vgtimes.ru%2Fposts%2F2025-05%2Fmem-okak-s-kotom-v-kapyushone-otkuda-vzyalsya-i-kak-ispolzuetsya-126888.webp%3F1748265587&pos=0&rpt=simage&stype=image&lr=21&parent-reqid=1748437860465849-17609626965802636987-balancer-l7leveler-kubr-yp-vla-245-BAL&source=serp)
